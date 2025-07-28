@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a dedicated and passionate Automation Tester w
 
 - **Role**: Test Analyst - Manual/Automation at Cognizant Technology Solutions Pune
 - **Expertise**: E2E Testing, Automation Testing, Agile Testing, Manual/Functional Testing, API Testing
-- **Tools**: Selenium WebDriver, Cypress, Postman, REST Assured BrowserStack, JIRA, Drupal, Liferay, TestNG
+- **Tools**: Cypress, Cucumber, Selenium, TestNG, TOSCA, Postman, BrowserStack, JIRA, Drupal, Liferay
 - **Languages**: Core Java, Groovy, JavaScript
 - **Operating Systems**: Windows, Ubuntu
 - **Databases**: SQL, MongoDB
@@ -18,6 +18,7 @@ I've had the privilege of working on significant projects, including Liferay Mig
 
 - **Client Appreciation**: For delivering quality work consistently.
 - **Pillar of the Month**: Recognition award for high performance and contribution to the project.
+- **Star Performer of the Quarter**: Recognition award for high performance and contribution to the project.
 
 ## 🎯 Vision
 
